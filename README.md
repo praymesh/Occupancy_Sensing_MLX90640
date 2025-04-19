@@ -13,7 +13,7 @@ Further, the model is quantized to be deployed on Edge devices like Raspberry Pi
 Quantized using tflite(works better on resource constrained devices).
 
 Though, after quantization the model accuracy got reduced. 
-Future Work: To fine tune the quantized model for increasing the accuracy towards new seen data. 
+Future Work: To fine-tune the quantized model for increasing the accuracy towards new seen data. Due to lack of data, the has not been fine-tuned
 
 Also the model works well upto 8 people(for 32*24 resolution images captured from a distance of 3m, nearly a standard ceiling height. )
 Example_1 :
@@ -21,7 +21,12 @@ Example_1 :
 Here We can Identify 3 People . 
 ![image](https://github.com/user-attachments/assets/c9495877-ec20-487a-af18-ff7528cd90ae)
 
+
+Example_1
+![image](https://github.com/user-attachments/assets/f8c84985-9797-4538-b50c-ae20e714fb65)
+
 Example_2
 ![image](https://github.com/user-attachments/assets/88d6565b-a78d-4d79-9e1a-740ce752872c)
+
 
 
