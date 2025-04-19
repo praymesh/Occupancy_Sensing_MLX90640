@@ -13,7 +13,7 @@ Further, the model is quantized to be deployed on Edge devices like Raspberry Pi
 Quantized using tflite(works better on resource constrained devices).
 
 Though, after quantization the model accuracy got reduced. 
-Future Work: To fine-tune the quantized model for increasing the accuracy towards new seen data. Due to lack of data, the has not been fine-tuned
+Future Work: To fine-tune the quantized model for increasing the accuracy towards new seen data. Due to lack of data, the model has not been fine-tuned.
 
 Also the model works well upto 8 people(for 32*24 resolution images captured from a distance of 3m, nearly a standard ceiling height. )
 Example_1 :
