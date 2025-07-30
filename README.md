@@ -8,7 +8,8 @@
 Preprocessed and annotated the data.. 
 
 I have also used Adaptive Blob Filtering Algorithm - ABFA, as mentioned in the paper : https://ieeexplore.ieee.org/document/10041292
-I thank ** Prof.Haroon Lone** from IISERB, for motivating me to work on this project.
+
+..I thank **Prof.Haroon Lone** from IISERB, for motivating me to work on this project.
 
 Further, the model is quantized to be deployed on Edge devices like Raspberry Pi. 
 Quantized using tflite(works better on resource constrained devices).
